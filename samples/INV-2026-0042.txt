@@ -1,0 +1,19 @@
+                        MERIDIAN SCIENTIFIC SUPPLIES PVT LTD
+From: Meridian Scientific Supplies Pvt Ltd
+GSTIN: 29ABCDE1234F1Z5
+Plot 44, Peenya Industrial Area, Bengaluru 560058
+
+TAX INVOICE
+Invoice No: INV-2026-0042
+Invoice Date: 12-05-2026
+PO No: PO-2026-0311
+
+Description                          HSN      Qty  Unit    Rate      Amount
+Microtome Blades Low Profile         90189099  40  BOX     1250.00   50000.00
+Slide Cassettes White                39269099 200  PKT      145.50   29100.00
+Xylene Reagent Grade 5L              38170011  12  CAN      880.00   10560.00
+
+Sub-total: 89660.00
+CGST @ 9% : 8069.40
+SGST @ 9% : 8069.40
+Grand Total: INR 105798.80
